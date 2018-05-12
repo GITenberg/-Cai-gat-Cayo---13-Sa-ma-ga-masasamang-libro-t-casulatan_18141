@@ -1,0 +1,24 @@
+_repo: -Cai-gat-Cayo---13-Sa-ma-ga-masasamang-libro-t-casulatan_18141
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 18141-h/images/cover_t.jpg
+creator:
+  author:
+    agent_name: Rodriguez, Fr. José
+    gutenberg_agent_id: '7837'
+    url: http://www.gutenberg.org/2009/agents/7837
+description: ''
+gutenberg_issued: '2006-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18141'
+language: tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rizal, José, 1861-1896'
+- !lcc 'PQ'
+title: "¡Caiñgat Cayo!\r\nSa mañga masasamang libro,t, casulatan"
+url: http://www.gutenberg.org/ebooks/18141
