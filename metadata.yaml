@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '7837'
     url: http://www.gutenberg.org/2009/agents/7837
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18141#-Cai-gat-Cayo---13-Sa-ma-ga-masasamang-libro-t-casulatan
 gutenberg_issued: '2006-04-10'
 gutenberg_type: Text
 identifiers:
